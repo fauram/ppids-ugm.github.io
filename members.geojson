@@ -22,8 +22,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [110, -7.3]
+      },
+
+    },{
+      "type": "Feature",
+      "properties": {
+        "nama": "Fauzan Ramadhan",
+        "alamat": "Pulo Asem Timur 10 no 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.2, 106.9]
       }
-    }
 
   ]
 }
